@@ -6,4 +6,4 @@ Para correr los programas anexados al repositorio usar el entorno de ejecucion _
 node programa.js
 ```
 ### Concesionaria de Autos
-El programa principal (_Concessionaria.js_) consta de dos archivos.En la  primera etapa,se requerir tu módulo _autos.js_ que se encuentra en la misma carpeta del archivo donde estás trabajando.Además, se creo un objeto literal llamado concesionaria que contendrá todas las funcionalidades que el cliente solicita.
+El programa principal es  (_Concessionari.js_) y el proyecto consta de dos archivos.En la  primera etapa,se requerir tu módulo _autos.js_ que se encuentra en la misma carpeta del archivo donde estás trabajando.Además, se creo un objeto literal llamado concesionaria que contendrá todas las funcionalidades que el cliente solicita.
