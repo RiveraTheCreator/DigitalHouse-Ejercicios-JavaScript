@@ -4,3 +4,6 @@ Este repositorio contiene los ejercicios realizados en el curso impartido por Di
 Para correr los programas anexados al repositorio usar el entorno de ejecucion _Node_:
 ```
 node programa.js
+```
+### Concesionaria de Autos
+El programa principal (_Concessionaria.js_) consta de un objeto literal con varios atributos y metodos los cuales nos "Permiten" realizar algunas operaciones.En la  primera etapa,se requerir tu módulo _autos.js_ que se encuentra en la misma carpeta del archivo donde estás trabajando.Además, se creo un objeto literal llamado concesionaria que contendrá todas las funcionalidades que el cliente solicita.
